@@ -1,0 +1,11 @@
+{
+  "name": "tecsup.dawa.acme",
+  "version": "0.0.1",
+  "description": "App de prueba para un rubro x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carrera, Martinez & Ponce",
+  "license": "ISC"
+}
